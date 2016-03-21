@@ -1,0 +1,1 @@
+This is a library for calculating the suffix tree of a string using Ukkonen's algorithm.
